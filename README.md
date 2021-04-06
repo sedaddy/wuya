@@ -1,1 +1,1 @@
-# tgbox[[[version 1.0.6|https://wwx.lanzoux.com/iUEcmix1gyh]]]
+# tgbox[[[version 2.0.0|https://wwx.lanzoui.com/iHGYWnpyqpi]]]
